@@ -21,7 +21,7 @@ END
 		// 15の倍数
 		if ($i % 15 === 0) {
 			echo 'FizzBuzz';
-        // 3の倍数
+		// 3の倍数
 		} elseif ($i % 3 === 0) {
 			echo 'Fizz';
 		// 5の倍数
