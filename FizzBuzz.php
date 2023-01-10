@@ -33,7 +33,7 @@ END
 		}
 		//改行
 		echo PHP_EOL;
-		echo "<br/>";
+		//echo "<br/>";	//←テスト表示用に使用
 	}
 
 
